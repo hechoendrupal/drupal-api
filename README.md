@@ -4,4 +4,4 @@ This project is an attempt to decouple some Drupal functionality to make it avai
 
 The idea behind this is to share functionality between:
 - [DrupalConsole](https://github.com/hechoendrupal/DrupalConsole)
-- [DrupalGenerator UI](drupalgenerator) 
+- [DrupalGenerator UI](https://github.com/hechoendrupal/drupalgenerator) 
